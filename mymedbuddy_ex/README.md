@@ -67,3 +67,4 @@ The health tip of the day rotates between these sources and includes:
 - **Riverpod**: Used for health logs with filtering and advanced features
 - **setState**: Used for form states and temporary UI state
 
+github repo: https://github.com/hassanyakubu/MyMedBuddy/tree/main
